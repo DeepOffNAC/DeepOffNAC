@@ -10,7 +10,7 @@
     "render": false,
     "rewards_path": "mountaincar_rewards.json",
     "record": false,
-    "recording_path": "cartpole_recording/",
+    "recording_path": "mountaincar_recording/",
     "recording_frequency": 10,
     "actor": {
         "hidden_layer_neurons": [
